@@ -1,3 +1,5 @@
+<img width="1366" height="617" alt="image" src="https://github.com/user-attachments/assets/943917a0-5ef7-4d0a-9cb3-bc2041ceec6d" />
+
 # Admin Dashboard
 
 A clean and responsive **Admin Dashboard UI** built using **HTML, CSS, and JavaScript**.  
@@ -57,4 +59,3 @@ This project is free to use for educational and personal purposes.
 **Palak Sharma**  
 Engineering Student | Aspiring Developer  
 
-<img width="1366" height="617" alt="image" src="https://github.com/user-attachments/assets/943917a0-5ef7-4d0a-9cb3-bc2041ceec6d" />
