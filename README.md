@@ -2,7 +2,7 @@
 
 # Admin Dashboard
 
-A clean and responsive **Admin Dashboard UI** built using **HTML, CSS, and JavaScript**.  
+A clean and responsive **Admin Dashboard UI** built using **HTML, CSS**.  
 This project provides a basic admin panel layout with a sidebar, header, main content area, and a dark mode toggle.
 
 ---
@@ -23,7 +23,6 @@ This project provides a basic admin panel layout with a sidebar, header, main co
 
 - HTML5  
 - CSS3  
-- JavaScript  
 
 No external libraries or frameworks are used.
 
